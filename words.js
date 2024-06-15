@@ -16,8 +16,8 @@ const wordList = [
         word: "dhiu",
         hint: "islamic university in kerala"
     },    {
-        word: "python",
-        hint: "programming language"
+        word: "favad",
+        hint: "foolish in the world"
     },
 
 ]
